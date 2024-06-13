@@ -1,6 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
+#permalink: /cv/
+permalink: /personal_info/Yining_Shi_CV.pdf
 title: cv
 nav: true
 nav_order: 5
