@@ -10,9 +10,9 @@ email: eddshi@umich.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-keywords: security, censorship # add your own keywords or leave empty
+keywords: security, censorship, Yining Shi # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/kagayaki.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/kagayaki.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ED-Y-S.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
