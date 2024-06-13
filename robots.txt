@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ED-Y-S.github.io/sitemap.xml
+Sitemap: https://eddshi.xyz/sitemap.xml
