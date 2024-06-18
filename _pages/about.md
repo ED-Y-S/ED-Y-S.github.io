@@ -37,4 +37,4 @@ Beyond my academic endeavor, I occasiaonlly have fun making VR and AR projects a
 <br>
 <br>
 
-<b>IMPORTANT: Please use different passwords for all different things!</b>
+<b><u>IMPORTANT: Please use different passwords for all different things!</u></b>
