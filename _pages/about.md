@@ -34,4 +34,7 @@ I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a no
 
 Beyond my academic endeavor, I occasiaonlly have fun making VR and AR projects as well :D. Do talk about anything VR-related topics with me, so long you don't mind spending an hour+.
 
-<b>IMPORTANT: Please use different passwords for all diferent things!</b>
+</br>
+</br>
+
+<b>IMPORTANT: Please use different passwords for all different things!</b>

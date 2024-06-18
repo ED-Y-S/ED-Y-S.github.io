@@ -1,9 +1,9 @@
 ---
 layout: page
-#permalink: /repositories/
-permalink: https://github.com/ED-Y-S
+permalink: /repositories/
+#permalink: https://github.com/ED-Y-S
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+#description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 nav: true
 nav_order: 4
 ---
