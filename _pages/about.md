@@ -28,13 +28,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 
-I am a rising senior at the University of Michigan. My academic interests lie in Anti-censorship Internet Measurement, Distributed systems, and IoT (Internet of things). 
+I am a rising senior at the University of Michigan. My academic interests lie in Computer Security! In particular, I am interested in studying Anticensorship Internet Measurement, Infrastructure Systems, and privacy-preserving adversarial methods to defend against privacy violation attacks from commercial Machine Learning (ML) models- your information matters and you should be able to defend yourself!
 
 I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a novel circumvention strategy, Nexus: utilizing packet-fragmenting algorithms against on-path attacks and billions of IoT networks to disrupt traffic surveillance from nation-state censors. [Check out our Poster!](https://ed-y-s.github.io/papers/nexus_poster.pdf).
 
-Beyond my academic endeavor, I occasiaonlly have fun making VR and AR projects as well :D. Do talk about anything VR-related topics with me, so long you don't mind spending an hour+.
-
-[To know more about me (Yay! You are interested :D)](https://eddshi.xyz/blog/2024/misc/)
+Beyond my academic endeavor, I have also developed some interests in Continental Philosophy. Without being vague, the greatest introduction for me would undoubtedly be Albert Camus- a firm world federalist and absurdist. [To know more about me as a person (Yay! You are interested :D)](https://eddshi.xyz/blog/2024/misc/)
 
 <br>
 <br>
