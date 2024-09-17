@@ -32,7 +32,8 @@ I am a rising senior at the University of Michigan. My academic interests lie in
 
 I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a novel circumvention strategy, Nexus: utilizing packet-fragmenting algorithms against on-path attacks and billions of IoT networks to disrupt traffic surveillance from nation-state censors. [Check out our Poster!](https://ed-y-s.github.io/papers/nexus_poster.pdf).
 
-Beyond my academic endeavor, I have also developed some interests in Continental Philosophy. Without being vague, the greatest introduction for me would undoubtedly be Albert Camus- a firm world federalist and absurdist. [To know more about me as a person (Yay! You are interested :D)](https://eddshi.xyz/blog/2024/misc/)
+<br>
+[To know more about me as a person beyond my academic endeavor! :D](https://eddshi.xyz/blog/2024/misc/)
 
 <br>
 <br>
