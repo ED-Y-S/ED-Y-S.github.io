@@ -1,8 +1,8 @@
 ---
 layout: cv
 #permalink: /cv/
-permalink: /personal_info/
-title: CV
+permalink: /personal_info/CV.pdf
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: CV.pdf
