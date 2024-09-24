@@ -28,7 +28,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 
-I am a rising senior at the University of Michigan. My academic interests lie in Computer Security! In particular, I am interested in studying Anticensorship Internet Measurement, Infrastructure Systems, and privacy-preserving adversarial methods to defend against privacy violation attacks from commercial Machine Learning (ML) models- your information matters and you should be able to defend yourself!
+I am a rising senior at the University of Michigan. My academic interests lie in Computer Security. In particular, I am interested in studying Anti-censorship Internet Measurement, Infrastructure Systems, and privacy-preserving adversarial methods to defend against privacy violation attacks from commercial Machine Learning (ML) models- <b>your information privacy right matters and you should be able to defend yourself</b>!
 
 I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a novel circumvention strategy, Nexus: utilizing packet-fragmenting algorithms against on-path attacks and billions of IoT networks to disrupt traffic surveillance from nation-state censors. [Check out our Poster!](https://ed-y-s.github.io/papers/nexus_poster.pdf).
 
@@ -38,4 +38,4 @@ I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a no
 <br>
 <br>
 
-<b><u>IMPORTANT: Please use different passwords for all different things!</u></b>
+<h4><b><u>IMPORTANT: Please use different passwords for all different things!</u></b></h4>
