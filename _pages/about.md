@@ -35,7 +35,7 @@ I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a no
 <br>
 [To know more about me as a person beyond my academic endeavor! :D](https://eddshi.xyz/blog/2024/misc/)
 <br>
-[FOOL!!!](/assets/img/eecs388_password.jpg)
+![FOOL!!!](/assets/img/eecs388_password.jpg)
 <br>
 <br>
 
