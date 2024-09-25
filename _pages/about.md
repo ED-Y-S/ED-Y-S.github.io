@@ -38,6 +38,6 @@ I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a no
 <br>
 <br>
 
-<u>[**IMPORTANT: Please use different passwords for all different things!**](/assets/img/eecs388_password.jpg)</u>
+ [**IMPORTANT: Please use different passwords for all different things!**](/assets/img/eecs388_password.jpg)
 <br>
 <br>
