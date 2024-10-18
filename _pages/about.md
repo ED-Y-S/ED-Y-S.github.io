@@ -32,7 +32,7 @@ I am a rising senior at the University of Michigan. My academic interests lie in
 
 I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a novel circumvention strategy, Nexus: utilizing packet-fragmenting algorithms against on-path attacks and billions of IoT networks to disrupt traffic surveillance from nation-state censors. [Check out our Poster](/papers/nexus_poster.pdf)!
 
-If you'd like, also take a look at my [research statement](/personal_info/RS-YS.pdf)!
+If you'd like, also take a look at my [research statement](/personal_info/ResearchStatement.pdf)!
 
 <br>
 [To know more about me as a person beyond my academic endeavor! :D](https://eddshi.xyz/blog/2024/misc/)
