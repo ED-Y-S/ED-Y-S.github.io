@@ -28,9 +28,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 
-I am a first-year Ph.D student at the University of Chicago. My academic interests lie in Computer Security. In particular, I am interested in studying Anti-censorship Internet Measurement, Infrastructure Systems (such as IoT), and privacy-preserving adversarial methods to defend against privacy violation attacks from commercial Machine Learning (ML) models- <b>your information privacy right matters and you should be able to defend yourself</b>!
+<!-- I am a first-year Ph.D student at the University of Chicago. My academic interests lie in Computer Security. In particular, I am interested in studying Anti-censorship Internet Measurement, Infrastructure Systems (such as IoT), and privacy-preserving adversarial methods to defend against privacy violation attacks from commercial Machine Learning (ML) models- <b>your information privacy right matters and you should be able to defend yourself</b>!
 
-I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a novel circumvention strategy, Nexus: utilizing packet-fragmenting algorithms against on-path attacks and billions of IoT networks to disrupt traffic surveillance from nation-state censors. [Check out our Poster](/papers/nexus_poster.pdf)!
+I am currently collaborating with Patrick Tser Jern Kon and Wyatt Ashley on a novel circumvention strategy, Nexus: utilizing packet-fragmenting algorithms against on-path attacks and billions of IoT networks to disrupt traffic surveillance from nation-state censors. [Check out our Poster](/papers/nexus_poster.pdf)! -->
 
 If you'd like, also take a look at my [research statement](/personal_info/Research_Statement.pdf)!
 
