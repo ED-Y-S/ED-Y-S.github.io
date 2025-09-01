@@ -9,9 +9,9 @@ profile:
   image: 1659687376704.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>John Crerar Library</p>
-  <p>5730 S Ellis Ave</p>
-  <p>Chicago, IL 60637</p>
+    <p>John Crerar Library</p>
+    <p>5730 S Ellis Ave</p>
+    <p>Chicago, IL 60637</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
